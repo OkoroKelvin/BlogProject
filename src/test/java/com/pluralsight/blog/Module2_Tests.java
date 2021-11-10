@@ -99,7 +99,7 @@ public class Module2_Tests {
 
         // TODO Make this work if Post constructor doesn't exist
         ALL_POSTS = new ArrayList<>(Arrays.asList(
-                new Post(1l, "Earbuds",
+                new Post(1L, "Earbuds",
                         "You have got to try these in your ears. So tiny and can even block the sounds of screaming toddlers if you so desire.",
                         "You have got to try these in your ears. So tiny and can even block the sounds of screaming toddlers if you so desire.",
                         "Sarah Holderness", new Date()),
